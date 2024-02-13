@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Personal Portfolio</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("https://i.imgur.com/feei8ool.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: yellow; /* Add this line to change the font color to yellow */
+}
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 20px auto;
+  display: block;
+}
+main {
+}
+footer {
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Personal Portfolio</h1>
+<p>Welcome to my Profile</p>
+</header>
+<img src="https://i.imgur.com/2fN1SHy.png" alt="Profile Picture">
+<main>
+<h2>About Me:</h2>
+<p>Hi there! I am Paul Mark Monteras Edulsora. An amateur programmer, and website developer currently studying Information Systems at Zamboanga Del Sur Provincial Government College. I have handle a lot of business related tasks during my high school heyday, and since has been in love with Tech related stuff such as computers and gadgets. I am quiet knowledgeable about latest software, processors, graphics cards, and smart phones on the market. So, if you want second opinion on what devices to buy cost-effective wise with your budget. Feel free to contact me down on the links below.</p>
+<h2>Related Links and Projects:</h2>
+<ul>
+<li><a href="https://drive.google.com/file/d/1DzTNPyj1sEZ6okx6sBzPqb5xcB_241ex/view?usp=drive_link">Click here! For My Biodata.</a></li>
+<li><a href="https://github.com/ProjectG3m1n1">Click here! For My Github.</a></li>
+<li><a href="https://m0nt3s0r4.wixsite.com/montesora">Check here out! My created website using Wix.</a></li>
+</ul>
+</main>
+<footer>
+<p>&copy; 2024 All rights reversed. For business related matters. Please contact me at m0nt3s0r4@gmail.com</p>
+</footer>
+</body>
+</html>
